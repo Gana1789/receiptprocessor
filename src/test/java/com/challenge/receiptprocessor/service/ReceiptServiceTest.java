@@ -1,9 +1,8 @@
-package com.challenge.receiptprocessor.Service;
+package com.challenge.receiptprocessor.service;
 
 import com.challenge.receiptprocessor.model.Item;
 import com.challenge.receiptprocessor.model.Receipt;
 import com.challenge.receiptprocessor.repository.ReceiptRepository;
-import com.challenge.receiptprocessor.service.ReceiptService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
